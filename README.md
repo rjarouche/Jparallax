@@ -1,6 +1,6 @@
 # Jparallax
 Powered by 
-[![](https://2.bp.blogspot.com/-4OrZe3SvEio/Wa3wtXDOU_I/AAAAAAAACuk/h0jvaRoJUYgsSJTiIT7d9wmHD50GF9DOACEwYBhgL/s1600/logo_vertical.png)](http://rodrigojarouche.blogspot.com.br/)
+Rodrigo Jarouche
 
 The easiest way to animate your parallax layoult
 
